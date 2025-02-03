@@ -24,7 +24,7 @@ Fastre.in bridges the gap between design and development by converting Figma des
 
 ## Demo
 
-Check out the live demo: [Fastre.in Demo](https://)
+Check out the live demo: [Fastre.in Demo](https://fastre-shopping.vercel.app/)
 
 ## Features
 
@@ -56,7 +56,6 @@ To get started with FastreShopping locally, follow these steps:
 
    ```bash
    git clone https://github.com/RishiRajSingh1/FastreShopping.git
-   cd next-ecommerce-shopco
    ```
 
 2. **Install dependencies:**
